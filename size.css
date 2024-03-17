@@ -1,0 +1,9 @@
+.imageChange {
+    max-width: 100px;
+    height: auto;
+    }
+img.center { 
+        display: block; 
+        margin-left: auto; 
+        margin-right: auto; 
+        }
